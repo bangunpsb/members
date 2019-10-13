@@ -50,5 +50,12 @@ Kontak : [Telegram](https://t.me/ehadaahmad) | [Email](mailto://ahmad@tanahatas.
 Pekerjaan : Front-End Developer    
 Keahlian : UI/UX Designer | React | Vue | GatsbyJs | Nuxt.js | Next.js | Node.js        
 Interest : Front-End Developer & UI/UX Designer     
-Peluang Kolaborasi : Ikut berkontribusi dalam project-project open source yang dibuat oleh Kongkow IT Pekanbaru    
+Peluang Kolaborasi : Ikut berkontribusi dalam project-project open source yang dibuat oleh Kongkow IT Pekanbaru  
 
+---
+Nama : Bangun Pasaribu 
+Kontak : [Telegram](https://t.me/uhaHoney) | [Email](mailto://bangunpsb@gmail.com)
+Pekerjaan : Mahasiswa  
+Keahlian : Web Application Development (Html , Css, Php) | Desktop Application Development (VB6.0 , Delphie 7) 
+Interest : Beginner Web Developer  
+Peluang Kolaborasi : Ingin berkontribusi sebisa mungkin di Kongkow It Pekanbaru
